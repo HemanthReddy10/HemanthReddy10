@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hemanth Reddy Yaramala, You can call me Hemanth 😇
 - 👀 I’m  studying Masters in Information Systems at Northeastern University ,Boston
-- 🌱 I’m currently learning Software technologies which can create an huge impact on society
+- 🌱 I’m currently working as a Software Engineer Co-op in Boehringer Ingelheim.
 - 💞️ I’m looking to collaborate on intresting SDLC projects
 - 📫 Please reach me on linkedin: https://www.linkedin.com/in/hemanth-reddy-yaramala-17a30a155
 
