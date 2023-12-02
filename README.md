@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Hemanth Reddy Yaramala, You can call me Hemanth 😇<br>👀 I’m studying Masters in Software Engineering and Information Systems at Northeastern University ,Boston<br>🌱 I’m currently working as a Software Engineer Co-op in Boehringer Ingelheim.<br>💞️ I’m looking to collaborate on intresting SDLC projects<br>📫 Please reach me on linkedin: https://www.linkedin.com/in/hemanth-reddy-yaramala-17a30a155</p>
+<p align="left">👋 Hi, I’m Hemanth Reddy Yaramala, You can call me Hemanth 😇<br>👀 I’m studying Masters in Software Engineering and Information Systems at Northeastern University ,Boston<br>🌱 I’m currently working as an IT Software Engineer Co-op in Boehringer Ingelheim.<br>💞️ I’m looking to collaborate on intresting SDLC projects<br>📫 Please reach me on linkedin: https://www.linkedin.com/in/hemanth-reddy-yaramala-17a30a155</p>
 
 ###
 
