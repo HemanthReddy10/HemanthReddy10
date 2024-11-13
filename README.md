@@ -6,7 +6,7 @@
 
 
 
-<p align="left">👋 Hi, I’m Hemanth Reddy Yaramala, You can call me Hemanth 😇<br>👀 I’m studying Masters in Software Engineering and Information Systems at Northeastern University ,Boston<br>🌱 I had the privilege of contributing as an IT Software Engineer Co-op at Boehringer Ingelheim, a leading global pharmaceutical company <br>🌱 Subsequently, I served as a Software Engineer (SDET) at Infosys, a renowned global consulting and IT services firm <br>💞️ I’m looking to collaborate on intresting SDLC projects<br> 📫 Please reach me on linkedin: https://www.linkedin.com/in/hemanth-reddy-yaramala-17a30a155</p>
+<p align="left">👋 Hi, I’m Hemanth Reddy Yaramala, You can call me Hemanth 😇<br>👀 I’m done my Masters in Information Systems at Northeastern University ,Boston<br>🌱 I had the privilege of contributing as an IT Software Analyst Co-op at Boehringer Ingelheim, a leading global pharmaceutical company <br>🌱 Subsequently, I served as a Systems Engineer at Infosys, a renowned global consulting and IT services firm <br>💞️ I’m looking to collaborate on intresting SDLC projects<br> 📫 Please reach me on linkedin: https://www.linkedin.com/in/hemanth-reddy-yaramala-17a30a155</p>
 
 
 
