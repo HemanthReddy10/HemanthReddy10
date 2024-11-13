@@ -10,14 +10,6 @@
 
 
 
-<h3 align="left">🛠 Language and tools</h3>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,python,mysql,spring,mongodb,firebase,linux,docker,ansible,git,figma" />
-  </a>
-</p>
 
 
 
